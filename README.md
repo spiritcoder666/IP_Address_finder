@@ -1,5 +1,4 @@
 # IP_Address_finder
-# Splay Tree Implementation in C++
 
 This project implements a **Splay Tree** in C++, a self-adjusting binary search tree that performs rotations to bring accessed nodes closer to the root. The implementation includes basic operations like insertion, searching, and in-order traversal, with the functionality demonstrated using IP addresses and randomly generated data packets.
 
@@ -37,5 +36,28 @@ This project implements a **Splay Tree** in C++, a self-adjusting binary search 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/spiritcoder666/splay-tree-cpp.git
-   cd splay-tree-cpp
+   [git clone https://github.com/spiritcoder666/splay-tree-cpp.git
+   cd splay-tree-cpp](https://github.com/spiritcoder666/IP_Address_finder.git)
+ ## Compile the program:
+ g++ main.cpp -o splay_tree
+
+##Run amd executable:
+./splay_tree
+
+## Sample Output
+IP ADDRESS -> DATA PACKET
+192.168.3.104 -> 57
+192.168.3.108 -> 142
+192.168.3.109 -> 65
+192.168.3.111 -> 23
+192.168.3.112 -> 98
+192.168.3.117 -> 54
+192.168.3.121 -> 172
+192.168.3.122 -> 99
+192.168.3.124 -> 67
+192.168.3.125 -> 36
+192.168.3.129 -> 88
+
+ 
+ 
+
